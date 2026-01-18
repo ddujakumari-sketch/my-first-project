@@ -1,5 +1,5 @@
 # my-first-project
-This is my first repository about coding
+This is my first repository about HTML and CSS 
 <!-- file: index.html -->
 <!DOCTYPE html>
 <html lang="en">
